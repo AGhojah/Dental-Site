@@ -1,0 +1,16 @@
+
+
+.Wrapper{
+    background: rgb(209, 138, 138);
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.Wrapper> a {
+    display: block;
+    background: rgba(133, 175, 35, 0.76);
+    width: 80px;
+    border-width: 2px;
+    border-style: solid;
+    transition: all 0.4s;
+}

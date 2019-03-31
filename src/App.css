@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+.BodyComponents {
+  display: grid;
+  flex-direction: row;
+  grid-template-columns: 3fr 1fr;
+}
+
+.Left {
+  background: #ad6725;
+  height: 50vh;
+}
+
+
+.Right {
+  float: right;
+  background: #61dafb;
+}

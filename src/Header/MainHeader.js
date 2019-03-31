@@ -11,7 +11,7 @@ class MainHeader extends Component {
         return (
             <header style={{backgroundColor: 'rgba(150,140,140,0.7)'}}>
                 <div className='logo'>
-                    <img src="" alt="Website Cover" srcset=""/>
+                    <img src="" alt="Website Cover"/>
                 </div>
 
                 <nav>
