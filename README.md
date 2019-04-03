@@ -1,3 +1,11 @@
+## How to start editing:
+1- Clone the repo.<br>
+2- In the repo's directory run Command Prompt.<br>
+3- Type in "npm install" (you must have node.js and npm installed), to install all dependancies and modules required.<br>
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
