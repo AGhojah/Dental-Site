@@ -10,6 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        Hello
         <MainHeader />
         <div className="BodyComponents">
           <div className="Left" >
