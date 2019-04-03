@@ -4,7 +4,7 @@ export class MainBody extends Component {
   render() {
     return (
       <div>
-        Main Body
+        <p>Main Body, This is the body of the page.</p>
       </div>
     )
   }
